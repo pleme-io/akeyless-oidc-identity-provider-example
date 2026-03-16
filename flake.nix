@@ -14,7 +14,7 @@
         pname = "akeyless-oidc-identity-provider-example";
         version = "0.0.0-dev";
         src = self;
-        npmDepsHash = "sha256-IBqZaU2SiOdXxPclbx+C4MLjSrUBl0TGCguBf6YORRU="; # TODO: set correct hash
+        npmDepsHash = "sha256-IBqZaU2SiOdXxPclbx+C4MLjSrUBl0TGCguBf6YORRU=";
         dontNpmBuild = false;
         npmBuildScript = "build";
         meta = {
